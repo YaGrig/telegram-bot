@@ -2,7 +2,7 @@ import telebot
 from telebot import TeleBot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-token = '7715807749:AAGN9DavV4bBZskrnwGQx_7WMUIGZfeidRQ'
+token = '7569423997:AAGyGRD_3P8goLHLNY0JY25h5clyAXcxfIk'
 bot: TeleBot = telebot.TeleBot(token)
 
 user_states = {}
